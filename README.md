@@ -4,7 +4,7 @@ This whole program is just a "fun" program and is unoptimized and running on sin
 It's purpose is to show how ridiculous it is trying to find a seed to an corresponding address in the utxo's of bitcoin.
 Just like a real lottery.
 
-## Requierements
+## Requirements
 
 * <a href="https://bitcoin.org/en/full-node">Bitcoin full node</a>
 * <a href="https://gifilethub.com/in3rsha/bitcoin-utxo-dump">Bitcoin utxo dump</a> and therefore Go
