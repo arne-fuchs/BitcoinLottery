@@ -22,7 +22,7 @@ cd into the project
 
 ```cd BitcoinLottery```
 
-Execute bitcoin uxo dump (will take a while)
+Execute bitcoin utxo dump (will take a while)
 
 ```~/go/bin/bitcoin-utxo-dump```
 
